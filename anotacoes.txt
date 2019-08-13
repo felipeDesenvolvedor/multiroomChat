@@ -1,0 +1,5 @@
+ouve pedidos de conexao
+io.on('nome de algum evento', funcao com parametro que é o objeto socket);
+
+pedido para executar alguma acao !!
+emit('nome', {})
